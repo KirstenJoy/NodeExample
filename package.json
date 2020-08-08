@@ -1,0 +1,17 @@
+{
+  "name": "photography",
+  "version": "1.0.0",
+  "description": "a website to display photos",
+  "main": "server.js",
+  "scripts": {
+    "test": "website to display photos",
+    "start": "node server.js"
+  },
+  "author": "k.jardine",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
+    "node": "^14.7.0"
+  }
+}
